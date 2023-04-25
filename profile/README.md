@@ -1,4 +1,4 @@
-# Grupo 8 - Liberty Corporation
+# Grupo 8 - Liberty Company
 
 ### Integrantes
 - [Daniel Diaz Teles](https://github.com/DanielDTeles)
